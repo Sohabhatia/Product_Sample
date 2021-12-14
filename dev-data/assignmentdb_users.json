@@ -1,0 +1,10 @@
+[{
+    "name":"Joe",
+    "username":"joe@connectedh.com",
+    "password":"joe@123",
+    "dob":"01-10-1980",
+    "mobile":"7763664463"
+},
+{"name":"Richard","username":"richard@connectedh.com","password":"richard@123","dob":"25-03-1986","mobile":"7735463354"},
+{"name":"Sean","username":"sean@connectedh.com","password":"sean@123","dob":"12-08-1988","mobile":"9876543554"},
+{"name":"Mathew","username":"mathew@connectedh.com","password":"mathew@123","dob":"05-11-1982","mobile":"9987834223"}]
